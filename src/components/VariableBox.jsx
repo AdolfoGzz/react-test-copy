@@ -1,4 +1,3 @@
-import React from "react"
 import CustomSlider from "./CustomSlider";
 import { Paper, Typography, Button } from "@mui/material";
 import { useState } from "react";
